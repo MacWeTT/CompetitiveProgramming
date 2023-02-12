@@ -1,6 +1,14 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+typedef long long ll;
+typedef vector<int> vi;
+
+#define pb push_back
+#define mp make_pair
+
+#define FOR(i, a, b) for (int i = a; i < b; i++)
+
 void solve()
 {
     // ios_base::sync_with_stdio(false);
