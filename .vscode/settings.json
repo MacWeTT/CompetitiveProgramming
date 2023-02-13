@@ -3,5 +3,6 @@
     "*.py": "python",
     "*.html": "html",
     "random": "cpp"
-  }
+  },
+  "cSpell.words": ["Binet's", "Fibonaci"]
 }
